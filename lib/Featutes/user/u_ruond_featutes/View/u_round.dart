@@ -16,7 +16,7 @@ final String room ;
 }
 
 class _URoundState extends State<URound> {
-  bool genQe = true;
+  bool genQe = false;
   @override
   Widget build(BuildContext context) {
     return SafeArea(
