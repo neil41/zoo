@@ -57,3 +57,19 @@ WS
 SetThemeAppsS
 SetThemeAppsS
 SetThemeAppsF
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+    return const SetThemesApp();
+  }
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+    return const SetThemesApp();
+  }
+}
