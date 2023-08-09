@@ -6,6 +6,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  var name = "ddv";
   const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
