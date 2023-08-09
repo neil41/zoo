@@ -31,10 +31,6 @@ class MyApp extends StatelessWidget {
     int a = 0;
   }
 
-  a6() {
-    int a = 0;
-  }
-
   const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
